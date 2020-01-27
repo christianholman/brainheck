@@ -1,5 +1,5 @@
 # Introduction
-A brainfuck interpreter / compiler made to practice programming lol
+A brainfuck interpreter made to practice programming lol
 It's a little bit optimized, combines trailing +'s and -'s as well as . 
 
 # Usage
